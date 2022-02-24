@@ -12,3 +12,6 @@ Ans : Universal Selector , Element Type Selector, ID Selector , Class Selector ,
 What is a CSS Preprocessor?<br>
 Ans : A CSS Preprocessor is a tool used to extend the basic functionality of default vanilla CSS through its own scripting language.
 there are many types css preprocessor such as SASS SCSS LESS Stylus
+
+What is VH/VW (viewport height/ viewport width) in CSS?<br>
+Ans : It’s a CSS unit used to measure the height and width in percentage with respect to the viewport. It is used mainly in responsive design techniques. The measure VH is equal to 1/100 of the height of the viewport. If the height of the browser is 1000px, 1vh is equal to 10px. Similarly, if the width is 1000px, then 1 vw is equal to 10px
