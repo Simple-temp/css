@@ -40,6 +40,28 @@ Ans : right to left
 How is opacity specified in CSS3?<br>
 Ans : we can use the property named opacity . this value will be start 0.1 and end 1 or maximum value is 1
 
+What is a z-index, how does it function?<br>
+Ans : z-index is used for specifying the vertical stacking of the overlapping elements that occur at the time of its positioning. It specifies the vertical stack order of the elements positioned that helps to define how the display of elements should happen in cases of overlapping.
+
+
+What are the properties of flexbox?<br>
+Ans : flex-direction, flex-wrap, flex-flow, justify-content, align-items, align-content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
