@@ -48,9 +48,30 @@ What are the properties of flexbox?<br>
 Ans : flex-direction, flex-wrap, flex-flow, justify-content, align-items, align-content
 
 
+Explain CSS position property?<br>
+Ans : absolute relative fixed static sticky
+
+Different Box Sizing Property?<br>
+Ans : content-box padding-box border-box
+
+How to center align a div inside another div?<br>
+Ans : centering with table, centering with transform, flexbox, grid
+
+Can you name the four types of @media properties?<br>
+Ans : all, screen, print, speech
+
+What is the grid system?
+Ans : CSS Grid Layout is the most powerful layout system available in CSS. It is said to be a 2-dimensional system, meaning it can handle both columns and rows, unlike flexbox which is largely a 1-dimensional system
+
+What are the different ways to hide the element using CSS?<br>
+Ans : display:none, visibility:none, position:absolute
+
+What does the :root pseudo-class refer to?<br>
+Ans : The :root selector allows you to target the highest-level “parent” element in the DOM, or document tree
 
 
-
+How do I restore the default value of a property?<br>
+Ans : The keyword initial can be used to reset it to its default value
 
 
 
