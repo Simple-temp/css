@@ -1,4 +1,4 @@
-# css
+# Css
 
 What are the advantages of using CSS?<br>
 Ans : Separation of content from presentation , Easy to maintain , Bandwidth
