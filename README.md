@@ -1,76 +1,76 @@
 # Css
 
-What are the advantages of using CSS?<br>
+# What are the advantages of using CSS?<br>
 Ans : Separation of content from presentation , Easy to maintain , Bandwidth
 
-What are the limitations of CSS?<br>
+# What are the limitations of CSS?<br>
 Ans : Browser Compatibility , Cross Browser issue , There is no parent selector
 
-What are the different types of Selectors in CSS?<br>
+# What are the different types of Selectors in CSS?<br>
 Ans : Universal Selector , Element Type Selector, ID Selector , Class Selector , Descendant Combinator , Child Combinator , General Sibling Combinator , Adjacent Sibling Combinator , Attribute Selector
 
-What is a CSS Preprocessor?<br>
+# What is a CSS Preprocessor?<br>
 Ans : A CSS Preprocessor is a tool used to extend the basic functionality of default vanilla CSS through its own scripting language.
 there are many types css preprocessor such as SASS SCSS LESS Stylus
 
-What is VH/VW (viewport height/ viewport width) in CSS?<br>
+# What is VH/VW (viewport height/ viewport width) in CSS?<br>
 Ans : It’s a CSS unit used to measure the height and width in percentage with respect to the viewport. It is used mainly in responsive design techniques. The measure VH is equal to 1/100 of the height of the viewport. If the height of the browser is 1000px, 1vh is equal to 10px. Similarly, if the width is 1000px, then 1 vw is equal to 10px
 
- Difference between reset vs normalize CSS?. How do they differ?<br>
+# Difference between reset vs normalize CSS?. How do they differ?<br>
  Ans : Reset CSS: CSS resets aim to remove all built-in browser styling. For example margins, paddings, font-sizes of all elements are reset to be the same. 
 
 Normalize CSS: Normalize CSS aims to make built-in browser styling consistent across browsers. It also corrects bugs for common browser dependencies
 
-Is it important to test the webpage in different browsers?<br>
+# Is it important to test the webpage in different browsers?<br>
 Ans : its most important
 
-What are Pseudo elements and Pseudo classes?<br>
+# What are Pseudo elements and Pseudo classes?<br>
 Ans : 1 . pseudo-elements are exitsting the document tree ..example ::after, ::before
 2 . pseudo-classes are only use for hovering..example ::fous ::hover ::active
 
-Does margin-top or margin-bottom have an effect on inline elements?<br>
+# Does margin-top or margin-bottom have an effect on inline elements?<br>
 Ans : no, it doesn’t affect the inline elements.
 
-What property is used for changing the font face?
+# What property is used for changing the font face?
 Ans : font-family
 
-How are the CSS selectors matched against the elements by the browser?<br>
+# How are the CSS selectors matched against the elements by the browser?<br>
 Ans : right to left
 
-How is opacity specified in CSS3?<br>
+# How is opacity specified in CSS3?<br>
 Ans : we can use the property named opacity . this value will be start 0.1 and end 1 or maximum value is 1
 
-What is a z-index, how does it function?<br>
+# What is a z-index, how does it function?<br>
 Ans : z-index is used for specifying the vertical stacking of the overlapping elements that occur at the time of its positioning. It specifies the vertical stack order of the elements positioned that helps to define how the display of elements should happen in cases of overlapping.
 
 
-What are the properties of flexbox?<br>
+# What are the properties of flexbox?<br>
 Ans : flex-direction, flex-wrap, flex-flow, justify-content, align-items, align-content
 
 
-Explain CSS position property?<br>
+# Explain CSS position property?<br>
 Ans : absolute relative fixed static sticky
 
-Different Box Sizing Property?<br>
+# Different Box Sizing Property?<br>
 Ans : content-box padding-box border-box
 
-How to center align a div inside another div?<br>
+# How to center align a div inside another div?<br>
 Ans : centering with table, centering with transform, flexbox, grid
 
-Can you name the four types of @media properties?<br>
+# Can you name the four types of @media properties?<br>
 Ans : all, screen, print, speech
 
-What is the grid system?
+# What is the grid system?
 Ans : CSS Grid Layout is the most powerful layout system available in CSS. It is said to be a 2-dimensional system, meaning it can handle both columns and rows, unlike flexbox which is largely a 1-dimensional system
 
-What are the different ways to hide the element using CSS?<br>
+# What are the different ways to hide the element using CSS?<br>
 Ans : display:none, visibility:none, position:absolute
 
-What does the :root pseudo-class refer to?<br>
+# What does the :root pseudo-class refer to?<br>
 Ans : The :root selector allows you to target the highest-level “parent” element in the DOM, or document tree
 
 
-How do I restore the default value of a property?<br>
+# How do I restore the default value of a property?<br>
 Ans : The keyword initial can be used to reset it to its default value
 
 
